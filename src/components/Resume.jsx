@@ -2,7 +2,7 @@ import React from 'react'
 import chartImg from '../assets/images/logo.svg'
 function Resume() {
     return (
-        <article className='bg-soft-red rounded-xl p-6 flex justify-between items-center text-white'>
+        <article className='bg-soft-red rounded-xl p-6 flex justify-between items-center text-white md:w-[424px]'>
             <div>
                 <h1 className='text-lg'>My balance</h1>
                 <p className='text-3xl font-bold'>$921.48</p>
